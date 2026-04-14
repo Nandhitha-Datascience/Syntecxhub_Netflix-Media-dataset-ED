@@ -1,0 +1,6 @@
+
+The analysis shows that Movies dominate Netflix content compared to TV Shows. 
+There is a significant increase in content over recent years, indicating rapid platform growth. 
+Drama and Comedy are among the most common genres. 
+The runtime distribution shows that most content falls within a standard duration range. 
+Overall, Netflix has expanded rapidly with diverse content across genres.
